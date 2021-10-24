@@ -18,6 +18,12 @@ Interested in papers I published ??
 
 [Finding breathing rate from a distance using radars](https://ieeexplore.ieee.org/abstract/document/8956905)
 
+Patents Here !! 
+
+[3 D reconstruction of human gestures using radars and machine learning](https://patentimages.storage.googleapis.com/7f/b8/1f/73bc47afaf4e27/US20200310549A1.pdf)
+
+[Determining Heart rate and breathing rate from cardiopulmonary signals](https://patents.google.com/patent/US20210298607A1/en)
+
 
 <!--
 **RaniSmriti/RaniSmriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
