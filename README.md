@@ -13,7 +13,9 @@ You can reach me at gmail - rani.smriti09@gmail.com and [LinkedIn](https://www.l
 Interested in papers I published ??
 
 [Spiking Neural Networks on Radar Data](https://ieeexplore.ieee.org/abstract/document/9206853)
+
 [Action Recognition Using Novel Features Extraction from Spectrogram](https://dl.acm.org/doi/abs/10.1145/3410530.3414362)
+
 [Finding breathing rate from a distance using radars](https://ieeexplore.ieee.org/abstract/document/8956905)
 
 
