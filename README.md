@@ -12,6 +12,8 @@ gmail - rani.smriti09@gmail.com
 
 linkedIn - https://www.linkedin.com/in/smriti-rani-12116a29/
 
+Interested in my google scholar profie !! Hit here - https://scholar.google.com/citations?user=yyv1MPkAAAAJ&hl=en&oi=ao
+
 
 
 <!--
