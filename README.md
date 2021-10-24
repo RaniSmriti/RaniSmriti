@@ -6,11 +6,10 @@ I am interested in signal processing, machine learning and data science.
 
 We can collaborate on radar centric signal processing, machine learning and tiny ML projects.
 
-
-
 You can reach me at
 
 gmail - rani.smriti09@gmail.com 
+
 linkedIn - https://www.linkedin.com/in/smriti-rani-12116a29/
 
 
