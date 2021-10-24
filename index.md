@@ -1,3 +1,17 @@
+Hi there!!
+
+I currently work with TCS Research with the Embedded Systems and Devices Group
+
+I am interested in signal processing, machine learning and data science.
+
+We can collaborate on radar centric signal processing, machine learning and tiny ML projects.
+
+Find my Google Scholar link [here](https://scholar.google.com/citations?user=yyv1MPkAAAAJ&hl=en&oi=ao)
+
+You can reach me at gmail - rani.smriti09@gmail.com and [LinkedIn](https://www.linkedin.com/in/smriti-rani-12116a29/)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RaniSmriti/RaniSmriti/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
