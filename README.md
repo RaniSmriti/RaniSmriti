@@ -8,9 +8,10 @@ We can collaborate on radar centric signal processing, machine learning and tiny
 
 You can reach me at
 
-[Gmail](rani.smriti09@gmail.com )
-
 gmail - rani.smriti09@gmail.com 
+
+[LinkedIn](https://www.linkedin.com/in/smriti-rani-12116a29/)
+[google Scholar] (https://scholar.google.com/citations?user=yyv1MPkAAAAJ&hl=en&oi=ao)
 
 linkedIn - <https://www.linkedin.com/in/smriti-rani-12116a29/>
 
